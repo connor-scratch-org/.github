@@ -5,3 +5,8 @@ repositories:
       has_wiki: false
       has_projects: false
       has_downloads: true
+    branches:
+      master:
+        enforce_admins: false
+        required_status_checks:
+          require_review: true
