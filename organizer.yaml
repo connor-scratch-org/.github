@@ -1,0 +1,7 @@
+repositories:
+  default:
+    features:
+      has_issues: false
+      has_wiki: false
+      has_projects: false
+      has_downloads: true
